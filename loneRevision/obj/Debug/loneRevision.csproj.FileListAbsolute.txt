@@ -1,0 +1,5 @@
+C:\Users\Air\Documents\Visual Studio 2013\Projects\loneRevision\bin\Debug\loneRevision.exe.config
+C:\Users\Air\Documents\Visual Studio 2013\Projects\loneRevision\bin\Debug\loneRevision.exe
+C:\Users\Air\Documents\Visual Studio 2013\Projects\loneRevision\bin\Debug\loneRevision.pdb
+C:\Users\Air\Documents\Visual Studio 2013\Projects\loneRevision\obj\Debug\loneRevision.exe
+C:\Users\Air\Documents\Visual Studio 2013\Projects\loneRevision\obj\Debug\loneRevision.pdb

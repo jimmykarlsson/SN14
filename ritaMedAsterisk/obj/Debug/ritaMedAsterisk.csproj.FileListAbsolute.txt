@@ -1,0 +1,6 @@
+C:\Users\Air\Documents\Visual Studio 2013\Projects\ritaMedAsterisk\bin\Debug\ritaMedAsterisk.exe.config
+C:\Users\Air\Documents\Visual Studio 2013\Projects\ritaMedAsterisk\obj\Debug\ritaMedAsterisk.csprojResolveAssemblyReference.cache
+C:\Users\Air\Documents\Visual Studio 2013\Projects\ritaMedAsterisk\bin\Debug\ritaMedAsterisk.exe
+C:\Users\Air\Documents\Visual Studio 2013\Projects\ritaMedAsterisk\bin\Debug\ritaMedAsterisk.pdb
+C:\Users\Air\Documents\Visual Studio 2013\Projects\ritaMedAsterisk\obj\Debug\ritaMedAsterisk.exe
+C:\Users\Air\Documents\Visual Studio 2013\Projects\ritaMedAsterisk\obj\Debug\ritaMedAsterisk.pdb

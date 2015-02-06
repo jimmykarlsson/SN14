@@ -1,0 +1,6 @@
+C:\Users\Air\Documents\Visual Studio 2013\Projects\kassaKvitto2\bin\Debug\kassaKvitto2.exe.config
+C:\Users\Air\Documents\Visual Studio 2013\Projects\kassaKvitto2\bin\Debug\kassaKvitto2.exe
+C:\Users\Air\Documents\Visual Studio 2013\Projects\kassaKvitto2\bin\Debug\kassaKvitto2.pdb
+C:\Users\Air\Documents\Visual Studio 2013\Projects\kassaKvitto2\obj\Debug\kassaKvitto2.exe
+C:\Users\Air\Documents\Visual Studio 2013\Projects\kassaKvitto2\obj\Debug\kassaKvitto2.pdb
+C:\Users\Air\Documents\Visual Studio 2013\Projects\kassaKvitto2\obj\Debug\kassaKvitto2.csprojResolveAssemblyReference.cache
